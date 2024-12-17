@@ -116,7 +116,7 @@ header{
 
   justify-content: flex-end;
   padding: -25px 5px;
-  margin: -38px 0;
+  margin: -38px 0 0 0;
   font-size: 1rem;
   color: white;
 }
@@ -152,12 +152,12 @@ header{
 
     justify-content: flex-start;
   align-items: flex-start;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: #fff;
     
    
-    margin-left: 20px;
-    margin-right: 500px;
+    margin-left: 10px;
+    margin-right: 00px;
     margin-top: 15px;
   }
   nav a:hover{
